@@ -1,0 +1,10 @@
+name: football-team-tracker
+title:
+username: brandoncfc
+account: brandoncfc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14378629
+bundleId: 10028035
+url: https://brandoncfc.shinyapps.io/football-team-tracker/
+version: 1
